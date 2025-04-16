@@ -4,7 +4,7 @@ import About from './pages/About';
 // import Cart from './pages/Cart';
 // import ProductDetails from './pages/ProductDetails';
 
-import Navbar from './components/navbar';
+import Navbar from './components/Navbar';
 
 function App() {
   return (
