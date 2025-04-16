@@ -8,6 +8,7 @@ export default function Navbar() {
         <Link to="/" className="hover:text-yellow-400">Home</Link>
         <Link to="/cart" className="hover:text-yellow-400">Cart</Link>
         <Link to="/product" className='hover:text-yellow-400'>Products</Link>
+        <Link to="/about" className='hover:text-yellow-400'>About</Link>
       </div>
     </nav>
   );
