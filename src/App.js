@@ -11,6 +11,7 @@ import About from './pages/About';
 
 
 import Navbar from './components/navbar';
+import Products from './pages/Products';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
+        <Route path='/Product' element={<Products />} />
       </Routes>
     </>
   );
