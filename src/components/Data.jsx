@@ -5,7 +5,7 @@ import g2 from "../img/g2.jpg"
 export const Data = [
     {
         name: "Ékszer",
-        price: 28.000,
+        price: 500,
         image:  g
     },
     {
